@@ -1,3 +1,5 @@
+package TugasPrakPBO4.Overriding;
+
 public class App {
     public static void main(String[] args) throws Exception {
         BangunDatar bangunDatar = new BangunDatar();

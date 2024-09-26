@@ -1,3 +1,5 @@
+package TugasPrakPBO4.Overriding;
+
 class Segitiga extends BangunDatar{
     private int alas;
     private int tinggi;

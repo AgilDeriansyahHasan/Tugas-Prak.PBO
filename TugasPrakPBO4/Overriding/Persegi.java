@@ -1,3 +1,5 @@
+package TugasPrakPBO4.Overriding;
+
 class Persegi extends BangunDatar{
     private int sisi;
     

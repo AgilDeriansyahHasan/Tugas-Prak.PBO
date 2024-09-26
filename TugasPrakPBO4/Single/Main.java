@@ -1,3 +1,5 @@
+package TugasPrakPBO4.Single;
+
 public class Main {
     public static void main(String[] args) {
         // Membuat objek m1 dari class Mobil dengan nama "Hino"
@@ -7,11 +9,9 @@ public class Main {
         Sedan s1 = new Sedan("Vios");
         
         // Mobil m1 melakukan klakson
-        System.out.println("Hino melakukan klakson:");
         m1.klakson();
         
         // Sedan s1 melakukan klakson
-        System.out.println("Vios melakukan klakson:");
         s1.klakson();
     }
 }
